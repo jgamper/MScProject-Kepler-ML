@@ -16,9 +16,9 @@ When searching for new planets through transit detection in NASA's Kepler satell
 
 * [Footnote 3 - Full CSV table of parameter search on the training data](https://github.com/jgamper/MScProject-Kepler-ML/blob/master/data/output/classifiersRun_M8D23H18M12/summary_M8D23H18M12.csv)
 
-* [Footnote 4 - Full CSV results table for *uncalibrated* models](https://github.com/jgamper/MScProject-Kepler-ML/blob/master/data/output/classifiersRun_M8D23H18M12/summary_M8D23H18M12.csv)
+* [Footnote 4 - Full CSV results table for *uncalibrated* models](https://github.com/jgamper/MScProject-Kepler-ML/blob/master/data/output/classifiersRun_M8D23H18M12/not_calibed_df.csv)
 
-* [Footnote 4 - Full CSV results table for *calibrated* models](https://github.com/jgamper/MScProject-Kepler-ML/blob/master/data/output/classifiersRun_M8D23H18M12/summary_M8D23H18M12.csv)
+* [Footnote 4 - Full CSV results table for *calibrated* models](https://github.com/jgamper/MScProject-Kepler-ML/blob/master/data/output/classifiersRun_M8D23H18M12/calibed_df.csv)
     
 
 ##### Link to Kepler data:
